@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#banner{
+    background: url(../Image/background.jpg) no-repeat center center;
+    background-size: cover;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+footer a{
+    color: #fff;
+}
+footer a:hover{
+    color: rgb(209, 209, 209);
+}
